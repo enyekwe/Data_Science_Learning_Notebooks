@@ -1,0 +1,17 @@
+Database        : crn:v1:bluemix:public:dashdb-for-transactions:us-south:a/3a8a66d8668d44708f5fa6d8e75fb60d:93a9b375-4c4f-4634-9ccd-f0d7629394e8::
+Host name       : db2-icd-prod-us-south-db-0abbw-private-alb.db2.databases.appdomain.cloud                                                        
+Authorization Id: mzm98143                                                                                                                        
+Run method      : JDBC                                                                                                                            
+Date            : Mar 16, 2022 8:57:17 PM                                                                                                         
+Status          : completed                                                                                                                       
+
+SELECT * FROM PET
+
+
+
+=======================================================================================
+SELECT * FROM PET
+
+Run time (seconds): 0.005    
+Status            : succeeded
+
